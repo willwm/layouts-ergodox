@@ -4,21 +4,27 @@ Selected layouts for the [ErgoDox keyboard](https://www.ergodox.io/). Made with 
 
 ![ErgoDox-original](ErgoDox-original-min.png)
 
-## Related Repositories
+## External Links
 
-* https://github.com/qmk/qmk_firmware/tree/master/layouts/community/ergodox
-    * https://github.com/qmk/qmk_firmware/tree/master/layouts/community/ergodox/ab
-    * https://github.com/qmk/qmk_firmware/tree/master/layouts/community/ergodox/familiar
-    * https://github.com/qmk/qmk_firmware/tree/master/layouts/community/ergodox/ordinary
-    * https://github.com/qmk/qmk_firmware/tree/master/layouts/community/ergodox/teckinesis
+* [ErgoDox Mechanical Keyboard](https://www.ergodox.io/)
+* [ErgoDox EZ: An Incredible Mechanical Ergonomic Keyboard](https://ergodox-ez.com/)
 
-* https://github.com/inkthink/an-alt-ergodox-ez-layout
-
-* https://github.com/naps62/ergodox-layout
-
-* 
-
-## Further Reading
+### Guides
 
 * [Unofficial Quick Reference to the ErgoDox EZ · inkthink/an-alt-ergodox-ez-layout Wiki](https://github.com/inkthink/an-alt-ergodox-ez-layout/wiki/Unofficial-Quick-Reference-to-the-ErgoDox-EZ)
 * [My Ergodox EZ’s Custom Layout | implements Blog](https://implementsblog.com/2016/10/16/my-ergodox-ezs-custom-layout/)
+
+### Related Repositories
+
+* [qmk_firmware/layouts/community/ergodox at master · qmk/qmk_firmware](https://github.com/qmk/qmk_firmware/tree/master/layouts/community/ergodox)
+    * [qmk_firmware/layouts/community/ergodox/ab at master · qmk/qmk_firmware](https://github.com/qmk/qmk_firmware/tree/master/layouts/community/ergodox/ab)
+    * [qmk_firmware/layouts/community/ergodox/familiar at master · qmk/qmk_firmware](https://github.com/qmk/qmk_firmware/tree/master/layouts/community/ergodox/familiar)
+    * [qmk_firmware/layouts/community/ergodox/ordinary at master · qmk/qmk_firmware](https://github.com/qmk/qmk_firmware/tree/master/layouts/community/ergodox/ordinary)
+    * [qmk_firmware/layouts/community/ergodox/teckinesis at master · qmk/qmk_firmware](https://github.com/qmk/qmk_firmware/tree/master/layouts/community/ergodox/teckinesis)
+
+* [inkthink/an-alt-ergodox-ez-layout: ErgoDox EZ ⌘ keyboard layout](https://github.com/inkthink/an-alt-ergodox-ez-layout)
+
+* [naps62/ergodox-layout: A heavily customized layout for my Ergodox EZ keyboard](https://github.com/naps62/ergodox-layout)
+
+
+
