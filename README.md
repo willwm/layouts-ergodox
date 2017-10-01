@@ -1,6 +1,6 @@
 # layouts-ergodox
 
-Selected layouts for the [ErgoDox keyboard](https://www.ergodox.io/), made with the [ErgoDox EZ Configurator](http://configure.ergodox-ez.com/keyboard_layouts/qdgrvo/edit), or with [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware/tree/master/layouts/community/ergodox/teckinesis) code.
+Selected layouts for the [ErgoDox keyboard](https://www.ergodox.io/). Made with the [ErgoDox EZ Configurator](http://configure.ergodox-ez.com/keyboard_layouts/qdgrvo/edit), or with [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware/tree/master/layouts/community/ergodox/teckinesis) code.
 
 ![ErgoDox-original](ErgoDox-original-min.png)
 
