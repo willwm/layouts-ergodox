@@ -26,5 +26,8 @@ Selected layouts for the [ErgoDox keyboard](https://www.ergodox.io/). Made with 
 
 * [naps62/ergodox-layout: A heavily customized layout for my Ergodox EZ keyboard](https://github.com/naps62/ergodox-layout)
 
+### Firmware Tool
+
+* [Teensy Loader Application - available for Windows, Linux and Macintosh systems](https://www.pjrc.com/teensy/loader.html)
 
 
